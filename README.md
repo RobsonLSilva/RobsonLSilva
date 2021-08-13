@@ -1,5 +1,6 @@
-## Fala galera! Eu sou o Robson Silva 
- <div style="display: block; margin-left: auto; margin-right: auto;">
+## Fala galera! 
+## Eu sou o Robson 
+ <div style="display: inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/RobsonLSilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RobsonLSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLSilva&layout=compact&langs_count=7&theme=react"/>
@@ -24,8 +25,7 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
    <a href="https://www.linkedin.com/in/robson-lsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:robson.lsilva36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
+
   ![Snake animation](https://github.com/RobsonLSilva/RobsonLSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
