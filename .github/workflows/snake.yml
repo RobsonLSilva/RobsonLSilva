@@ -1,5 +1,5 @@
 
-name: generate animation
+name: Generate Datas
 
 on:
   # run automatically every 24 hours
@@ -12,7 +12,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
   
 
